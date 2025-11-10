@@ -248,7 +248,6 @@ Este proyecto está bajo la licencia MIT. Ver el archivo `LICENSE` para más det
 
 Para preguntas o colaboraciones:
 - GitHub Issues: [Crear issue](https://github.com/Merigu10/tfm-gnn-public/issues)
-- Email: [tu-email@ejemplo.com]
 
 ## 🔗 Enlaces Útiles
 
